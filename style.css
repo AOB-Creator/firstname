@@ -379,7 +379,7 @@ body{
 }
 .imgstarbucks img{
     
-    transform: rotate(25deg) translateX(10%) translateY(-10%);
+    transform: rotate(0deg) translateX(10%) translateY(-10%);
     width: 180px;
     object-fit: fill;
     min-height: 200px;
