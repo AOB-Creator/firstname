@@ -385,9 +385,9 @@ body{
     min-height: 200px;
     height: auto;
     filter: drop-shadow(1px 1px 55px rgb(27, 58, 15));
-    animation: imgmover 3s alternate-reverse infinite;
+    /* animation: imgmover 3s alternate-reverse infinite; */
 }
-@keyframes imgmover{
+/* @keyframes imgmover{
     form{
         transform: rotate(25deg) translateX(13%) translateY(-10%);
         filter: drop-shadow(1px 1px 55px rgb(27, 58, 15));
@@ -396,7 +396,7 @@ body{
         transform: rotate(-25deg) translateX(13%) translateY(-10%);
         filter: drop-shadow(1px 1px 55px rgba(228, 228, 228, 0.616));
     }
-}
+} */
 .main-menu-starbucks{
     
     text-align: center;
